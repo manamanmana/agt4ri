@@ -1,0 +1,4 @@
+package: github.com/manamanmana/agt4ri
+import:
+- package: github.com/aws/aws-sdk-go
+  version: ^1.10.37
